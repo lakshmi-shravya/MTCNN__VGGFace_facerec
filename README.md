@@ -1,4 +1,4 @@
-# One-Shot Face Recognition Repository
+# One-Shot Face Recognition Problem
 
 This repository focuses on solving the one-shot face recognition problem using an experimental approach. Face recognition has always been one of the hottest topics in computer vision for decades. It is extremely useful in real-world applications, such as security, surveillance, robotics, etc. With the advanced algorithm development in computer vision, more and better methods have been proposed to address challenging face recognition problem, such as poor lighting, different facial poses, occlusions, etc. 
 
